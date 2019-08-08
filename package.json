@@ -1,0 +1,29 @@
+{
+  "name": "rotatemaze",
+  "version": "1.0.0",
+  "description": "little &amp; fun html game",
+  "main": "game.js",
+  "scripts": {
+    "test": "jest",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fishenal/rotateMaze.git"
+  },
+  "author": "fishenal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fishenal/rotateMaze/issues"
+  },
+  "homepage": "https://github.com/fishenal/rotateMaze#readme",
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "babel-jest": "^24.8.0",
+    "jest": "^24.8.0",
+    "webpack": "^4.39.1",
+    "webpack-cli": "^3.3.6"
+  },
+  "dependencies": {}
+}
