@@ -10,6 +10,12 @@
     border: 1px solid #666;
     position: relative;
 }
+.highlight .line-0,
+.highlight .line-1,
+.highlight .line-2,
+.highlight .line-3 {
+    background: red;
+}
 .line-0 {
     position: absolute;
     width: 1px;
